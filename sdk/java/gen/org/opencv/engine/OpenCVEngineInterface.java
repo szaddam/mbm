@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: /home/adam/Dropbox/mbm/mbm_app/sdk/java/src/org/opencv/engine/OpenCVEngineInterface.aidl
+ * Original file: /home/mars/Munka/workspace/mbm/sdk/java/src/org/opencv/engine/OpenCVEngineInterface.aidl
  */
 package org.opencv.engine;
 /**
